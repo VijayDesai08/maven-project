@@ -1,5 +1,6 @@
 <html>
 <body bgcolor="white">
-<h2>Hello World! Let's begin</h2>
+<h1>WELCOME TO IIT PATNA</h1>
+<h1>WELCOME TO DEPARTMENT OF CSE</h1>
 </body>
 </html>
